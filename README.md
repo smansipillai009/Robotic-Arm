@@ -1,4 +1,4 @@
-# 4-DOF Autonomous Robotic Arm
+# 3-DOF Autonomous Robotic Arm
 ### Theory of Machines — Mechanical Engineering College Project
 
 An autonomous pick-and-place robotic arm applying core Theory of Machines concepts. The arm detects objects using an HC-SR04 ultrasonic sensor and executes a full pick-and-place cycle autonomously — no manual input required.

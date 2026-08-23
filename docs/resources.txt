@@ -1,0 +1,5 @@
+// Inverse Kinematics Theory 
+- https://opentextbooks.clemson.edu/wangrobotics/chapter/inverse-kinematics/
+- https://in.mathworks.com/discovery/inverse-kinematics.html
+- https://publish.illinois.edu/ece470-intro-robotics/files/2021/10/ECE470Lec11-2.pdf
+- https://www.youtube.com/watch?v=8D0sO8mymQ8
